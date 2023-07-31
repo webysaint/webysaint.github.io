@@ -10,6 +10,14 @@
   padding-bottom: 0.02em;
 }
 
+hr {
+  color: #fff8f8;
+}
+
+.footer-img {
+  height: 40px;
+}
+
 
 /*--------------------------------------------------------------
 # General
@@ -1693,11 +1701,11 @@ section {
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #fff;
+  background: #292929;
 }
 
 #footer .footer-top .footer-contact {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 #footer .footer-top .footer-contact h3 {
@@ -1715,19 +1723,19 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Jost", sans-serif;
-  color: #5e5e5e;
+  color: #fff8f8;
 }
 
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #37517e;
+  color: #fff8f8;
   position: relative;
   padding-bottom: 12px;
 }
 
 #footer .footer-top .footer-links {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 #footer .footer-top .footer-links ul {
@@ -1754,7 +1762,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #777777;
+  color: #fff8f8;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -1787,7 +1795,7 @@ section {
 }
 
 #footer .footer-bottom {
-  padding-top: 30px;
+  padding-top: 20px;
   padding-bottom: 30px;
   color: #fff;
 }
