@@ -14,10 +14,6 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-html, body {
-  height:100%;
-}
-
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -932,10 +928,8 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
-
 .portfolio #portfolio-flters {
   list-style: none;
-  /* padding: 10px; */
   margin-bottom: 20px;
 }
 
@@ -959,7 +953,7 @@ section {
 }
 
 .portfolio .portfolio-item {
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 
 .portfolio .portfolio-item .portfolio-img {
@@ -1020,8 +1014,6 @@ section {
 .portfolio .portfolio-item:hover .portfolio-info {
   opacity: 1;
 }
-
-/* Portfolio Container*/
 
 /*--------------------------------------------------------------
 # Portfolio Details
